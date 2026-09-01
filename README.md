@@ -1,2 +1,4 @@
 # CEFET-RJ-Coding
-All the codes, exercises and projects written during undergraduate studies
+All the codes, exercises and projects written during undergraduate studies.
+
+
